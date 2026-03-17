@@ -31,12 +31,12 @@ I am a Full Stack Developer with a strong focus on **User Interface (UI)** and *
 
 ### 🚀 Featured Projects
 
-#### 💻 [Ucool - Online POS](https://github.com/TU_USUARIO/ucool)
+#### 💻 [Ucool - Online POS](https://github.com/jairo-cereceda/ucool)
 *A high-scale, comprehensive Online Point of Sale (TPV) system.*
 - **Context:** Developed as an intensive MVP in just one month, focusing on rapid delivery and core business logic.
 - **Key Features:** Real-time sales tracking, inventory management, and a streamlined UI for fast-paced environments.
 
-#### 📝 [MyChat - Idea Manager](https://github.com/TU_USUARIO/mychat)
+#### 📝 [MyChat - Idea Manager](https://github.com/jairo-cereceda/mychat)
 *Productivity tool designed to capture thoughts in a chat-like format.*
 - **Context:** A project focused on **Clean Code** and refined user experience.
 - **Key Features:** Lightweight, intuitive, and designed for quick, short-message idea organization.
