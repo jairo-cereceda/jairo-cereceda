@@ -51,7 +51,7 @@ Conecto el diseño visual con código frontend limpio, accesible y de alto rendi
 
 #### ♦️Portfolio Ilustradora
 > Portfolio web para ilustradora digital enfocado en el impacto visual y la accesibilidad.  
-> **[Ver Demo en Vivo](https://jairo-cereceda.github.io/portfolio-ilustradora)** · **[Código en GitHub](https://github.com/jairo-cereceda/portfolio-ilustradora)**
+> **[Ver Demo en Vivo](https://portfolio-ilustradora.vercel.app/)** · **[Código en GitHub](https://github.com/jairo-cereceda/portfolio-ilustradora)**
 
 - **Stack:** Astro, Tailwind CSS, Playwright, Atomic Design
 - Arquitectura modular basada en Atomic Design (átomos, moléculas y organismos) para alta escalabilidad.
@@ -60,7 +60,7 @@ Conecto el diseño visual con código frontend limpio, accesible y de alto rendi
 
 #### ♦️Lily Pub
 > Sitio web moderno para un negocio de hostelería, diseñado para convertir y guiar al usuario.  
-> **[Ver Demo en Vivo](https://jairo-cereceda.github.io/lily-pub)** · **[Código en GitHub](https://github.com/jairo-cereceda/lily-pub)**
+> **[Ver Demo en Vivo](https://lily-pub.vercel.app/)** · **[Código en GitHub](https://github.com/jairo-cereceda/lily-pub)**
 
 - **Stack:** Astro, Tailwind CSS, Playwright, UI/UX Design
 - Experiencia inmersiva y navegación intuitiva adaptada a la identidad de marca del local.
@@ -69,7 +69,7 @@ Conecto el diseño visual con código frontend limpio, accesible y de alto rendi
 
 #### ♦️Apartamento Agora
 > Web demo para alojamiento turístico con énfasis en rendimiento y experiencia de reserva.  
-> **[Ver Demo en Vivo](https://jairo-cereceda.github.io/apartamento-agora)** · **[Código en GitHub](https://github.com/jairo-cereceda/apartamento-agora)**
+> **[Ver Demo en Vivo](https://apartamento-agora.vercel.app/)** · **[Código en GitHub](https://github.com/jairo-cereceda/apartamento-agora)**
 
 - **Stack:** Astro, Tailwind CSS, Playwright, Performance
 - Presentación clara de servicios, galería fotográfica optimizada y opciones de reserva directa.
@@ -124,7 +124,7 @@ I bridge the gap between polished visual design and high-performance, maintainab
 
 #### ♦️Illustrator Portfolio
 > Digital illustrator showcase focused on visual presentation, performance, and accessibility.  
-> **[Live Demo](https://jairo-cereceda.github.io/portfolio-ilustradora)** · **[GitHub Repo](https://github.com/jairo-cereceda/portfolio-ilustradora)**
+> **[Live Demo](https://portfolio-ilustradora.vercel.app/)** · **[GitHub Repo](https://github.com/jairo-cereceda/portfolio-ilustradora)**
 
 - **Stack:** Astro, Tailwind CSS, Playwright, Atomic Design
 - Structured following Atomic Design principles (atoms, molecules, organisms) for clean scalability.
@@ -133,7 +133,7 @@ I bridge the gap between polished visual design and high-performance, maintainab
 
 #### ♦️Lily Pub
 > Hospitality website demo designed to engage visitors and ease discovery.  
-> **[Live Demo](https://jairo-cereceda.github.io/lily-pub)** · **[GitHub Repo](https://github.com/jairo-cereceda/lily-pub)**
+> **[Live Demo](https://lily-pub.vercel.app/)** · **[GitHub Repo](https://github.com/jairo-cereceda/lily-pub)**
 
 - **Stack:** Astro, Tailwind CSS, Playwright, UI/UX Design
 - Immersive aesthetic reflecting the venue's brand identity paired with frictionless navigation.
@@ -142,7 +142,7 @@ I bridge the gap between polished visual design and high-performance, maintainab
 
 #### ♦️Agora Apartment
 > Tourist accommodation demo website focused on high performance and smooth booking flows.  
-> **[Live Demo](https://jairo-cereceda.github.io/apartamento-agora)** · **[GitHub Repo](https://github.com/jairo-cereceda/apartamento-agora)**
+> **[Live Demo](https://apartamento-agora.vercel.app/)** · **[GitHub Repo](https://github.com/jairo-cereceda/apartamento-agora)**
 
 - **Stack:** Astro, Tailwind CSS, Playwright, Performance
 - Clean presentation of amenities, photo galleries, and booking inquiry workflows.
